@@ -2,3 +2,6 @@
 
 Data:
 https://drive.google.com/drive/folders/1l0fKooIGeH2EHqJB0ldJ9QAwZPcw_Nuc?usp=sharing
+
+Contrastive Learning:
+https://lilianweng.github.io/lil-log/2021/05/31/contrastive-representation-learning.html#contrastive-training-objectives
