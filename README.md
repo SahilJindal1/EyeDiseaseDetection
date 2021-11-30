@@ -17,3 +17,6 @@ Flow:
 1) Project/ImageResizer.ipynb: Resizes fundus images in Project/OriginalDataset from original size to 500x300 and stores in Project/Resized folder
 2) FundusReadIntoArray.ipynb: Reads resized images from Project/Resized into numpyarray and stores respective numpy array at Project/Preprocessed into as TrainData.npy and TrainLabels.npy
 3) NewModel.ipynb: Reads numpy arrays from step2 and classifies them using CNN model arch
+
+
+UNet: https://www.kaggle.com/nicholasmcelroy/retinal-disease-classification-in-tf
