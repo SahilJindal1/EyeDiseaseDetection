@@ -8,7 +8,7 @@ https://lilianweng.github.io/lil-log/2021/05/31/contrastive-representation-learn
 
 Base Paper: https://sci-hub.hkvisa.net/10.1109/ICINPRO43533.2018.9096838
 
-Kaggle Dataset: https://www.kaggle.com/andrewmvd/retinal-disease-classification
+Dataset: https://www.mdpi.com/2306-5729/6/2/14
 
 Drive Link of everything: https://drive.google.com/drive/folders/1JqHqWI_7QTBA6-uOTD4KM4YBn53qf6w4?usp=sharing
 
