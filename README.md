@@ -19,6 +19,4 @@ Flow:
 3) NewModel.ipynb: Reads numpy arrays from step2 and classifies them using CNN model arch
 
 
-UNet: https://www.kaggle.com/nicholasmcelroy/retinal-disease-classification-in-tf
-
 Overleaf: https://www.overleaf.com/project/61a5694b5c620f471df0520f
