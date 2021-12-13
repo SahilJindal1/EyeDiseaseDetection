@@ -1,6 +1,6 @@
 # EyeDiseaseDetection
 
-## Read: retinal_disease_classification.pdf
+### Read: retinal_disease_classification.pdf
 
 
 Data:
